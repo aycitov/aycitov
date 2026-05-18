@@ -1,16 +1,26 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**aycitov/aycitov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# AYCITOV
 
-Here are some ideas to get you started:
+### Web Developer • Industrial Engineer • İzmir
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Modern+Web+Developer;Frontend+Enthusiast;Building+Clean+Digital+Experiences;Always+Learning+New+Things" />
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:6A00FF&height=180&section=header&text=Welcome%20To%20My%20Profile&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+
+</div>
+
+---
+
+# 💫 About Me
+
+```javascript
+const aycitov = {
+    location: "İzmir, Türkiye",
+    education: "Industrial Engineering",
+    focus: "Web Development",
+    currentlyLearning: ["React", "Modern UI/UX", "Frontend Development"],
+    lifePhilosophy: "Build clean. Build modern."
+}
