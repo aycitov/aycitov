@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm aycitosman</h1>
+<h1 align="center">Hi 👋, tültülspor/h1>
 <h3 align="center">Web Developer from İzmir, Türkiye</h3>
 
 <p align="center">
