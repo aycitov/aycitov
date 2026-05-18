@@ -1,26 +1,65 @@
-<div align="center">
+<h1 align="center">Hi 👋, I'm Aycitov</h1>
+<h3 align="center">Web Developer from İzmir, Türkiye</h3>
 
-# AYCITOV
-
-### Web Developer • Industrial Engineer • İzmir
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Modern+Web+Developer;Frontend+Enthusiast;Building+Clean+Digital+Experiences;Always+Learning+New+Things" />
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:6A00FF&height=180&section=header&text=Welcome%20To%20My%20Profile&fontSize=40&fontColor=ffffff&animation=fadeIn" />
-
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Modern+Web+Developer;Industrial+Engineer;Frontend+Enthusiast;Always+Learning+New+Things" />
+</p>
 
 ---
 
-# 💫 About Me
+## 🚀 About Me
 
-```javascript
-const aycitov = {
-    location: "İzmir, Türkiye",
-    education: "Industrial Engineering",
-    focus: "Web Development",
-    currentlyLearning: ["React", "Modern UI/UX", "Frontend Development"],
-    lifePhilosophy: "Build clean. Build modern."
-}
+- 🌍 Based in İzmir, Türkiye
+- 🎓 Industrial Engineer
+- 💻 Interested in Web Development
+- ⚡ Building modern and clean web experiences
+- 🌱 Currently learning new frontend technologies
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+<a href="https://github.com/aycitov" target="blank">
+<img align="center" src="https://skillicons.dev/icons?i=github" height="40" />
+</a>
+</p>
+
+---
+
+## 💻 Tech Stack
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,vscode,git,github" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=aycitov&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aycitov&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+</p>
+
+---
+
+## 🔥 Streak Stats
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=aycitov&theme=tokyonight&hide_border=true&background=0D1117" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=aycitov&label=Profile%20Views&color=00f7ff&style=for-the-badge" />
+</p>
